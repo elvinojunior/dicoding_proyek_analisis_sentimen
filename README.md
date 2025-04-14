@@ -2,6 +2,7 @@
 * Proyek analisis sentimen aplikasi ShopeeFood Driver
 
 * Menggunakan Scrapping review google play store
+
 ![Screenshot 2025-04-10 202414](https://github.com/user-attachments/assets/fb4b9493-a283-43c8-8ddd-6ba281899a4f)
 
 # Grade
